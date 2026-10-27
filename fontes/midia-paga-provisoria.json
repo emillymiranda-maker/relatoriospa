@@ -32,8 +32,37 @@
   "limites": [
     "Flow com sincronização falha por falta de créditos",
     "Meta outubro por posicionamento: 663.45; base adotada: campanhas 633.97",
-    "Instagram ID 17841416078997621 sem correspondência nominal confirmada aos perfis",
     "Alcance único mensal N/D; não somar alcance diário",
     "Sem atribuição causal da queda orgânica a partir desta base"
-  ]
+  ],
+  "perfil_confirmado": {
+    "handle": "sensoriaspa",
+    "instagram_id": "17841416078997621",
+    "anuncios_com_entrega": 31,
+    "escopo": "Conta e períodos recuperados; não exclui outras contas",
+    "sensoriario": "Sem entrega identificada nesta base"
+  },
+  "conciliacao_outubro": {
+    "campanhas": 633.97,
+    "anuncios": 634.2,
+    "posicionamentos": 663.45,
+    "diferenca": 29.48,
+    "dias": {
+      "13/10": {
+        "campanhas": 0,
+        "posicionamentos": 29.72
+      },
+      "27/10": {
+        "campanhas": 5.62,
+        "posicionamentos": 5.38
+      }
+    },
+    "status": "Não conciliado; regularizar créditos e reprocessar"
+  },
+  "justificativa_reportada": {
+    "fonte": "Relato da equipe, check-in 27/10, 19:52–21:57 e 28:23",
+    "motivo": "Eficiência; pausa aquisição e redução gradual de RMKT LP, priorizando WhatsApp; retorno comercial insuficiente e proteção de ROAS",
+    "pedido_cliente": "Não há solicitação explícita no registro citado",
+    "verificacao": "Informações fornecidas pelo usuário; sem verificação independente nesta atualização"
+  }
 }
