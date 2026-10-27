@@ -1,0 +1,444 @@
+{
+  "collected": "27/10/2026",
+  "periods": [
+    "01–30/09/2026",
+    "01–27/10/2026 · parcial"
+  ],
+  "spa": {
+    "handle": "sensoriaspa",
+    "base": 21766,
+    "women": 92.3,
+    "cities": [
+      [
+        "Rio de Janeiro",
+        34.3
+      ],
+      [
+        "Niterói",
+        33.1
+      ],
+      [
+        "São Gonçalo",
+        12.5
+      ]
+    ],
+    "months": [
+      {
+        "views": 295001,
+        "organic": 81546,
+        "paid": 213455,
+        "reachLabel": "63,5 mil",
+        "interactions": 905,
+        "visits": 6275,
+        "clicks": 4407,
+        "followers": 675,
+        "stories": 27,
+        "posts": 7
+      },
+      {
+        "views": 78158,
+        "organic": 34793,
+        "paid": 43365,
+        "reachLabel": "7 mil",
+        "interactions": 376,
+        "visits": 2241,
+        "clicks": 491,
+        "followers": 342,
+        "stories": 17,
+        "posts": 9
+      }
+    ]
+  },
+  "rio": {
+    "handle": "sensoriario",
+    "base": 501,
+    "women": 84.4,
+    "cities": [
+      [
+        "Rio de Janeiro",
+        50.1
+      ],
+      [
+        "Niterói",
+        11.4
+      ],
+      [
+        "São Gonçalo",
+        7.2
+      ]
+    ],
+    "months": [
+      {
+        "views": 1538,
+        "organic": 1538,
+        "paid": 0,
+        "reachLabel": "264",
+        "interactions": 18,
+        "visits": 138,
+        "clicks": 0,
+        "followers": 14,
+        "stories": 4,
+        "posts": 1
+      },
+      {
+        "views": 1401,
+        "organic": 1401,
+        "paid": 0,
+        "reachLabel": "373",
+        "interactions": 29,
+        "visits": 107,
+        "clicks": 0,
+        "followers": 17,
+        "stories": 2,
+        "posts": 2
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "DdEUZqnGTY8",
+      "title": "Quem confiou, conta",
+      "account": "sensoriaspa",
+      "date": "09/09/2026",
+      "month": "09",
+      "url": "https://www.instagram.com/p/DdEUZqnGTY8/",
+      "format": "Carrossel",
+      "images": [
+        "assets/setembro-04-7.webp",
+        "assets/setembro-04-3.webp",
+        "assets/setembro-04-4.webp",
+        "assets/setembro-04-5.webp",
+        "assets/setembro-04-6.webp"
+      ],
+      "views": 1267,
+      "reach": 669,
+      "likes": 10,
+      "shares": 0,
+      "comments": 0,
+      "saves": 6,
+      "followers": 0,
+      "collab": false
+    },
+    {
+      "id": "DdMC0YPmD2g",
+      "title": "Por dentro do protocolo",
+      "account": "sensoriaspa",
+      "date": "12/09/2026",
+      "month": "09",
+      "url": "https://www.instagram.com/p/DdMC0YPmD2g/",
+      "format": "Carrossel",
+      "images": [
+        "assets/setembro-05-6.webp",
+        "assets/setembro-05-2.webp",
+        "assets/setembro-05-3.webp",
+        "assets/setembro-05-4.webp",
+        "assets/setembro-05-5.webp"
+      ],
+      "views": 1098,
+      "reach": 581,
+      "likes": 9,
+      "shares": 2,
+      "comments": 0,
+      "saves": 1,
+      "followers": 0,
+      "collab": false
+    },
+    {
+      "id": "DdTxMm5jAcL",
+      "title": "Leve o ritual para casa",
+      "account": "sensoriaspa",
+      "date": "15/09/2026",
+      "month": "09",
+      "url": "https://www.instagram.com/p/DdTxMm5jAcL/",
+      "format": "Post",
+      "images": [
+        "assets/setembro-07-3.webp"
+      ],
+      "views": 804,
+      "reach": 499,
+      "likes": 7,
+      "shares": 2,
+      "comments": 0,
+      "saves": 1,
+      "followers": 0,
+      "collab": true
+    },
+    {
+      "id": "DdbfmXTDZTh",
+      "title": "Dor no ombro não é normal",
+      "account": "sensoriaspa",
+      "date": "18/09/2026",
+      "month": "09",
+      "url": "https://www.instagram.com/p/DdbfmXTDZTh/",
+      "format": "Post",
+      "images": [
+        "assets/setembro-09-4.webp"
+      ],
+      "views": 970,
+      "reach": 595,
+      "likes": 9,
+      "shares": 0,
+      "comments": 0,
+      "saves": 2,
+      "followers": 0,
+      "collab": false
+    },
+    {
+      "id": "Ddly7lXjQGg",
+      "title": "Ela vem toda semana",
+      "account": "sensoriaspa",
+      "date": "22/09/2026",
+      "month": "09",
+      "url": "https://www.instagram.com/p/Ddly7lXjQGg/",
+      "format": "Post",
+      "images": [
+        "assets/setembro-08-3.webp"
+      ],
+      "views": 846,
+      "reach": 476,
+      "likes": 8,
+      "shares": 4,
+      "comments": 0,
+      "saves": 4,
+      "followers": 1,
+      "collab": false
+    },
+    {
+      "id": "DdthG7ViXnl",
+      "title": "Fernando explica",
+      "account": "sensoriaspa",
+      "date": "25/09/2026",
+      "month": "09",
+      "url": "https://www.instagram.com/p/DdthG7ViXnl/",
+      "format": "Post",
+      "images": [
+        "assets/setembro-10-3.webp"
+      ],
+      "views": 562,
+      "reach": 361,
+      "likes": 5,
+      "shares": 0,
+      "comments": 0,
+      "saves": 2,
+      "followers": 1,
+      "collab": false
+    },
+    {
+      "id": "Dd30TraCVSx",
+      "title": "Um pedaço do Rio, feito pausa",
+      "account": "sensoriaspa",
+      "date": "29/09/2026",
+      "month": "09",
+      "url": "https://www.instagram.com/p/Dd30TraCVSx/",
+      "format": "Carrossel",
+      "images": [
+        "assets/setembro-11-7.webp",
+        "assets/setembro-11-4.webp",
+        "assets/setembro-11-5.webp",
+        "assets/setembro-11-6.webp",
+        "assets/setembro-11-8.webp"
+      ],
+      "views": 645,
+      "reach": 296,
+      "likes": 9,
+      "shares": 0,
+      "comments": 0,
+      "saves": 1,
+      "followers": 0,
+      "collab": false
+    },
+    {
+      "id": "Dd93uw8CkZZ",
+      "title": "Natureza Carioca · Reel",
+      "account": "sensoriaspa",
+      "date": "01/10/2026",
+      "month": "10",
+      "url": "https://www.instagram.com/reel/Dd93uw8CkZZ/",
+      "format": "Reel",
+      "images": [],
+      "views": 328,
+      "reach": 245,
+      "likes": 10,
+      "shares": 0,
+      "comments": 0,
+      "saves": 0,
+      "followers": 1,
+      "collab": false
+    },
+    {
+      "id": "Dd_kN9PlLI8",
+      "title": "Você sentiu isso na sessão de hoje",
+      "account": "sensoriario",
+      "date": "02/10/2026",
+      "month": "10",
+      "url": "https://www.instagram.com/p/Dd_kN9PlLI8/",
+      "format": "Carrossel",
+      "images": [
+        "assets/outubro-07-2.webp",
+        "assets/outubro-07-3.webp",
+        "assets/outubro-07-4.webp"
+      ],
+      "views": 642,
+      "reach": 307,
+      "likes": 14,
+      "shares": 1,
+      "comments": 1,
+      "saves": 0,
+      "followers": 0,
+      "collab": true
+    },
+    {
+      "id": "DeHREpdH28B",
+      "title": "Quem confiou, conta · protocolo",
+      "account": "sensoriaspa",
+      "date": "05/10/2026",
+      "month": "10",
+      "url": "https://www.instagram.com/p/DeHREpdH28B/",
+      "format": "Carrossel",
+      "images": [
+        "assets/outubro-04-5.webp",
+        "assets/outubro-04-2.webp",
+        "assets/outubro-04-3.webp",
+        "assets/outubro-04-4.webp"
+      ],
+      "views": 799,
+      "reach": 378,
+      "likes": 8,
+      "shares": 0,
+      "comments": 0,
+      "saves": 4,
+      "followers": 0,
+      "collab": false
+    },
+    {
+      "id": "DeRkTnuDM0z",
+      "title": "Aromaterapia é técnica",
+      "account": "sensoriaspa",
+      "date": "09/10/2026",
+      "month": "10",
+      "url": "https://www.instagram.com/p/DeRkTnuDM0z/",
+      "format": "Carrossel",
+      "images": [
+        "assets/outubro-05-2.webp",
+        "assets/outubro-05-3.webp",
+        "assets/outubro-05-4.webp",
+        "assets/outubro-05-5.webp",
+        "assets/outubro-05-6.webp"
+      ],
+      "views": 794,
+      "reach": 408,
+      "likes": 3,
+      "shares": 1,
+      "comments": 0,
+      "saves": 1,
+      "followers": 0,
+      "collab": false
+    },
+    {
+      "id": "Deb3Zw7jZpC",
+      "title": "30 ou 50 minutos?",
+      "account": "sensoriaspa",
+      "date": "13/10/2026",
+      "month": "10",
+      "url": "https://www.instagram.com/p/Deb3Zw7jZpC/",
+      "format": "Post",
+      "images": [
+        "assets/outubro-08-2.webp"
+      ],
+      "views": 977,
+      "reach": 540,
+      "likes": 12,
+      "shares": 4,
+      "comments": 0,
+      "saves": 2,
+      "followers": 0,
+      "collab": false
+    },
+    {
+      "id": "DejlyQvksr8",
+      "title": "Leve para casa o que sentiu aqui",
+      "account": "sensoriaspa",
+      "date": "16/10/2026",
+      "month": "10",
+      "url": "https://www.instagram.com/p/DejlyQvksr8/",
+      "format": "Carrossel",
+      "images": [
+        "assets/setembro-12-4.webp",
+        "assets/setembro-12-3.webp",
+        "assets/setembro-12-5.webp",
+        "assets/setembro-12-6.webp",
+        "assets/setembro-12-7.webp"
+      ],
+      "views": 610,
+      "reach": 290,
+      "likes": 7,
+      "shares": 0,
+      "comments": 0,
+      "saves": 2,
+      "followers": 0,
+      "collab": true
+    },
+    {
+      "id": "Det4-99iWan",
+      "title": "Você não precisa resolver tudo antes de cuidar de si",
+      "account": "sensoriaspa",
+      "date": "20/10/2026",
+      "month": "10",
+      "url": "https://www.instagram.com/p/Det4-99iWan/",
+      "format": "Post",
+      "images": [
+        "assets/outubro-09-3.webp"
+      ],
+      "views": 967,
+      "reach": 587,
+      "likes": 2,
+      "shares": 1,
+      "comments": 0,
+      "saves": 1,
+      "followers": 0,
+      "collab": false
+    },
+    {
+      "id": "De4MK-LAUZ7",
+      "title": "Desde a primeira unidade",
+      "account": "sensoriaspa",
+      "date": "24/10/2026",
+      "month": "10",
+      "url": "https://www.instagram.com/p/De4MK-LAUZ7/",
+      "format": "Post",
+      "images": [
+        "assets/outubro-10-2.webp"
+      ],
+      "views": 433,
+      "reach": 256,
+      "likes": 6,
+      "shares": 0,
+      "comments": 0,
+      "saves": 1,
+      "followers": 0,
+      "collab": false
+    },
+    {
+      "id": "De_6jFfn43d",
+      "title": "O mar também está na nossa fórmula",
+      "account": "sensoriaspa",
+      "date": "27/10/2026",
+      "month": "10",
+      "url": "https://www.instagram.com/p/De_6jFfn43d/",
+      "format": "Carrossel",
+      "images": [
+        "assets/outubro-11-3.webp",
+        "assets/outubro-11-4.webp",
+        "assets/outubro-11-5.webp"
+      ],
+      "views": 220,
+      "reach": 82,
+      "likes": 4,
+      "shares": 0,
+      "comments": 0,
+      "saves": 0,
+      "followers": 0,
+      "collab": false
+    }
+  ]
+}
