@@ -1,0 +1,15 @@
+RELATÓRIO SENSÓRIA — COLETA EM 27/10/2026
+Fonte: Meta Business Suite, portfólio Sensória 185912656185646.
+@sensoriaspa: ativo 144813397712098, Instagram 17841416078997621.
+@sensoriario: ativo Instagram 17841463278075474.
+Resultados e conteúdo: setembro de 1 a 30; outubro de 1 a 27, dia em andamento. Fuso das datas: Horário do Pacífico.
+Visualizações principais: detalhamento atribuído ao Instagram, sem adicionar as visualizações de Facebook exibidas no cartão cruzado.
+Orgânico/pago: Insights > Conteúdo > Visão geral > Detalhamento Orgânico/anúncios.
+Alcance: total único exibido, com arredondamento quando presente. Não somar por dia, por mês ou entre perfis.
+Interações, visitas, cliques e seguidores: Resultados. Visitas e cliques não são pessoas únicas; cliques no link não equivalem a toques na bio nem a agendamentos. Seguidores no intervalo são aquisições, não saldo líquido. Visitas/cliques aditivos transcritos das séries diárias quando o cartão é arredondado.
+Audiência: Público > Dados demográficos, retrato acumulado em 27/10, não composição de pessoas alcançadas no período.
+Produção: contagens de Conteúdo > Visão geral, com até 200 conteúdos; collabs podem figurar em ambas as contas.
+Exportação de feed: posts publicados entre 01/09 e 27/10. As métricas são acumuladas desde a publicação até a coleta, não ações restritas ao intervalo. O CSV de duas contas tem 19 linhas e 16 IDs únicos. Duplicatas foram removidas por ID para o catálogo. O nome de usuário do autor é preservado; collabs são sinalizadas nos dois perfis e não somadas como produções diferentes.
+Há um Reel publicado em 01/10 na exportação; roteiros marcados EM PRODUÇÃO nas pautas não comprovam publicação. Não há dados de retenção neste CSV.
+Criativos: extraídos dos PDFs de pautas de setembro e outubro enviados pelo cliente. São artes de referência; legendas, data e métricas têm a exportação Meta como fonte. As pautas não determinam o mês efetivo de publicação.
+Não foram coletados dados de vendas, agendamentos, investimento ou retorno financeiro. Não atribuir conversões comerciais aos indicadores de conteúdo.
