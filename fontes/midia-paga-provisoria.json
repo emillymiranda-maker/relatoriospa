@@ -1,0 +1,39 @@
+{
+  "status": "Provisório; fornecido pelo usuário em 27/10/2026; não reextraído nesta atualização",
+  "periodos": {
+    "setembro": "01–30/09/2026",
+    "outubro_meta": "até 27/10 parcial",
+    "outubro_google": "até 26/10"
+  },
+  "meta": {
+    "conta": "1007770883138161",
+    "setembro": {
+      "investimento": 2759.11,
+      "impressoes": 165205,
+      "cpm": 16.7
+    },
+    "outubro": {
+      "investimento": 633.97,
+      "impressoes": 36484,
+      "cpm": 17.38
+    }
+  },
+  "google": {
+    "conta": "850-819-0513",
+    "setembro": {
+      "investimento": 1693.91,
+      "impressoes": 6270
+    },
+    "outubro": {
+      "investimento": 1988.01,
+      "impressoes": 10896
+    }
+  },
+  "limites": [
+    "Flow com sincronização falha por falta de créditos",
+    "Meta outubro por posicionamento: 663.45; base adotada: campanhas 633.97",
+    "Instagram ID 17841416078997621 sem correspondência nominal confirmada aos perfis",
+    "Alcance único mensal N/D; não somar alcance diário",
+    "Sem atribuição causal da queda orgânica a partir desta base"
+  ]
+}
